@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/miliinwine/todolist.git/static/css/main.a3c83717.css",
-    "main.js": "/miliinwine/todolist.git/static/js/main.f1f85297.js",
-    "static/media/LemonTuesday.otf": "/miliinwine/todolist.git/static/media/LemonTuesday.024c8ca4a177ed80a27a.otf",
-    "static/media/background.webp": "/miliinwine/todolist.git/static/media/background.261731cbeb5a1c4f3b6a.webp",
-    "index.html": "/miliinwine/todolist.git/index.html",
-    "main.a3c83717.css.map": "/miliinwine/todolist.git/static/css/main.a3c83717.css.map",
-    "main.f1f85297.js.map": "/miliinwine/todolist.git/static/js/main.f1f85297.js.map"
+    "main.css": "/todolist.git/static/css/main.a438dc41.css",
+    "main.js": "/todolist.git/static/js/main.f1f85297.js",
+    "static/media/LemonTuesday.otf": "/todolist.git/static/media/LemonTuesday.024c8ca4a177ed80a27a.otf",
+    "static/media/background.webp": "/todolist.git/static/media/background.261731cbeb5a1c4f3b6a.webp",
+    "index.html": "/todolist.git/index.html",
+    "main.a438dc41.css.map": "/todolist.git/static/css/main.a438dc41.css.map",
+    "main.f1f85297.js.map": "/todolist.git/static/js/main.f1f85297.js.map"
   },
   "entrypoints": [
-    "static/css/main.a3c83717.css",
+    "static/css/main.a438dc41.css",
     "static/js/main.f1f85297.js"
   ]
 }
